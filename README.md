@@ -1,4 +1,7 @@
 # APK CRYPTER FUD
+
+# TELEGRAM : https://t.me/mave12x
+
 Features:
 1) Compitable with all popular Android RATs
 2) Optimizes the contents of APK
